@@ -179,6 +179,10 @@ If you use Docker, the code has been verified to work on
 
 
 ## Installation
+My PC environment:  
+   win10  
+   keras==2.1.6  
+   tensorflow==1.10.0  
 1. Clone this repository
 2. Install dependencies
    ```bash
